@@ -1,0 +1,241 @@
+
+
+li {
+ font-size : 20px;
+ font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 200;
+display: inline;
+ padding-top: 10px;
+ padding-left: 20px;
+ padding-right: 20px;
+ padding-bottom: 10px;
+
+}
+
+
+
+.navbar text{
+	color : #ffffff;
+	
+}
+
+
+
+
+.navbar{
+ height : 80px;
+background-color : #2c3e50;
+border : 1px solid #2c3e50;
+margin-bottom : 0;
+
+}
+
+.navbar .shrink {
+	height: 50px;
+}
+
+.top-buffer {
+margin-top : 20px;
+position : relative;
+}
+
+.top-buffer .shrink {
+	margin-top: 10px;
+
+}
+.jumbotron {
+height : 800px;
+padding-top : 150px;
+font-family : Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+background-color : #18bc9c;
+}
+
+
+
+.jumbotron h1,h2 {
+color : #ffffff;
+}
+
+.jumbotron h1 {
+font-size : 90px;
+font-weight : 700;
+}
+
+.pictures {
+margin-top : 250px;
+height : 600 px;
+background-color : #ffffff;
+
+}
+
+.pictures .thumbnail : hover {
+	background: url("./profile.png");
+}
+
+.pictures text {
+font-size : 50px;
+color: #2c3e50;
+font-family : Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.about text {
+
+font-size : 50px;
+font-family : Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+color : #ffffff;
+}
+.about p {
+font-family : Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+margin-top : 30px;
+color : #ffffff;
+}
+.about {
+background-color : #18bc9c;
+margin-top : 120px;
+height :400px;
+border : 1px solid #18bc9c;
+}
+.about button {
+
+height : 50px;
+width : 80 px;
+border-radius : 8px;
+border : 2px solid #ffffff;
+margin-top : 20px;
+background-color : #18bc9c;
+
+}
+.contacts button{
+	color: #ffffff;
+
+}
+
+.contacts text {
+font-size : 40px;
+}
+.contacts {
+margin-top : 120px;
+height : 600px;
+background-color : #ffffff;
+
+}
+.contacts  form{
+	width : 800px;
+	height : 100px;
+}
+.contacts span {
+	color : #ff0000;
+}
+.contacts button {
+
+height : 50px;
+width : 100px;
+border-radius : 8px;
+border : 2px solid #ffffff;
+margin-top: 20px;
+background-color: #18bc9c;
+
+}
+
+.contacts .form-group label {
+	display: block;
+	color: #18bc9c;
+	opacity: 0;
+	transition : all 0.25s ease-in-out 0s;
+}
+.info .one{
+font-size : 30px;
+color : #ffffff;
+text-align : center;
+padding-left : 130px;
+}
+
+.info .two{
+font-size : 30px;
+color : #ffffff;
+text-align : center;
+padding-left : 25px;
+}
+
+.info .btn-social {
+display : inline-block;
+width: 50px;
+height: 50px;
+border : 2px solid #ffffff;
+border-radius : 200%;
+text-align : center;
+font-size: 20px;
+line-height : 45px;
+background-color : #2c3e50;
+color : #ffffff;
+}
+
+
+.info .three{
+font-size : 30px;
+color : #ffffff;
+text-align : center;
+padding-left : 60px;
+}
+
+
+.info p {
+font-size : 20px;
+color : #ffffff;
+text-align : center;
+}
+.info{
+height : 250px; 
+background-color : #2c3e50;
+}
+.copyright {
+height : 50px;
+background-color : #233140;
+color : #ffffff;
+font-size : 15px;
+}
+.copyright text {
+padding : 25px 0;
+}
+
+
+.
+.buttoncr {
+	
+	padding-top: 50px;
+	padding-right: 20px;
+}
+
+.caketitle {
+	color: #2c3e50;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 50px;
+	margin-top: 50px;   
+
+}
+
+.cakeimg img {
+	height: auto;
+	width: 650px;
+	margin-top: 50px;
+	margin-right:20px;
+	
+}
+.larget {
+	color: #2c3e50;
+	font-size: 25px;
+	margin-top: 20px;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.newcake button {
+	background-color: #95a5a6;
+	color: #ffffff;
+	font-size: 15px;
+	height: 50px;
+	width: 100px;
+	border: 1px solid #95a5a6;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-bottom : 100px;
+
+}
